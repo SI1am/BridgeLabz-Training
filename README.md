@@ -5,3 +5,5 @@
 17-12-2025 : Solved 5 LeetCode Questions and updated to them inside leet-code-codebase.
 
 17-12-2025 : Solved 10 Google classroom questions.
+
+18-12-2025 : Solved Level 1 and Level 2 Questions and updated them into programming-elements folder 
