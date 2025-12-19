@@ -2,12 +2,12 @@
 
 import java.util.Scanner;
 
-public class converttomile {
+public class ConvertToMile {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter the distance in Kilometers: ");
-        int dis=sc.nextInt();
-        System.out.println("The distance in Miles: "+ (0.621371*dis));
+        int distance=sc.nextInt();
+        System.out.println("The distance in Miles: "+ (0.621371*distance));
         sc.close();
     }
     

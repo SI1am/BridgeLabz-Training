@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class averageofthree{
+public class AverageOfThree{
     public static void main(String[] args) {
         Scanner sv = new Scanner(System.in);
         System.out.println("Enter three numbers");
