@@ -34,7 +34,7 @@ public class FizzBuzzArray{
             }
         }
 
-        for (int i = 1; i <= number; i++) {
+        for(int i = 1; i <= number; i++){
             System.out.println("Position " + i + " = " + result[i]);
         }
     }

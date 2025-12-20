@@ -29,7 +29,7 @@ public class OddEvenArray{
         int evenIndex = 0;
         int oddIndex = 0;
 
-        for(int i = 1; i <= number; i++){
+        for(int i = 1;i<= number;i++){
             if(i % 2 == 0){
                 even[evenIndex++] = i;
             }else{
@@ -38,12 +38,15 @@ public class OddEvenArray{
         }
 
         System.out.println("Even Numbers:");
-        for(int i = 0; i < evenIndex; i++){
+        for(int i = 0;i < evenIndex;i++){
+        	
             System.out.print(even[i] + " ");
+            
         }
 
         System.out.println("\nOdd Numbers:");
-        for(int i = 0; i < oddIndex; i++) {
+        for(int i= 0;i< oddIndex;i++) {
+        	
             System.out.print(odd[i] + " ");
         }
     }
