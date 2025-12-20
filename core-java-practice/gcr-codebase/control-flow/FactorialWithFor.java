@@ -17,7 +17,7 @@ public class FactorialWithFor{
 			factorial*=i;
 			
 		}
-		System.out.println("The Factorial of "+number+" is : "+ factorial);//Shows output for factorial
+		System.out.println("The Factorial of "+number+" is : "+factorial);//Shows output for factorial
 		
 		
 
