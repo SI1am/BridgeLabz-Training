@@ -10,5 +10,5 @@
 
 18-12-2025 : Solved Level 1 and Level 2 Questions and updated them into programming-elements folder 
 
-19-12-2025: Solved Level 1, 2, and 3 Questions and updated them in [core-java-practice/gcr-codebase/control-flow](./gcr-codebase/control-flow)
+19-12-2025: Solved Level 1, 2, and 3 Questions and updated them in [core-java-practice/gcr-codebase/control-flow](./core-java-practice/gcr-codebase/control-flow)
 . Focused on mastering control flow statements like if-else, loops, and switch cases
