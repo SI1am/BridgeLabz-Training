@@ -14,3 +14,6 @@
 . Focused on mastering control flow statements like if-else, loops, and switch cases
 
 20-12-2025 (Saturday): Solved Scenario Based Question and updated them to [scenario-based](./core-java-practice/scenario-based/) 
+
+20-12-2025 (Saturday): Solved Arrays Question and updated them to [arrays](./core-java-practice/gcr-codebase/arrays/) 
+
