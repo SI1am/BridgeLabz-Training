@@ -17,3 +17,4 @@
 
 20-12-2025 (Saturday): Solved Arrays Question and updated them to [arrays](./core-java-practice/gcr-codebase/arrays/) 
 
+22-12-2025 (Monday) : Solver Strings Questions and updated them to [strings](./core-java-practice/gcr-codebase/strings/)
