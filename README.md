@@ -18,3 +18,5 @@
 20-12-2025 (Saturday): Solved Arrays Question and updated them to [arrays](./core-java-practice/gcr-codebase/arrays/) 
 
 22-12-2025 (Monday) : Solver Strings Questions and updated them to [strings](./core-java-practice/gcr-codebase/strings/)
+
+23-12-2025 (Tuesday) : Solved Methods Assignment and updated them to [methods](./core-java-practice/gcr-codebase/methods/) folder. Also completed extras Assignment and updated to [extras](./core-java-practice/gcr-codebase/extras/) folder.
