@@ -1,4 +1,4 @@
-package Extras;
+package extras;
 import java.util.*;
 
 public class RemoveCharacter {
