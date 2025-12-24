@@ -1,1 +1,4 @@
 16-12-2025 : First Day of Capgemini training starting with learning industry standard folder structure 
+
+23-12-2025 (Tuesday) : Completed Classes and Objects assignment and save in [classes-and-objects](./oops/gcr-codebase/classes-and-objects/) folder.Gained hands-on experience with object-oriented programming concepts like classes, objects, constructors, and methods.
+
