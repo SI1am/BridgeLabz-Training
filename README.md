@@ -1,6 +1,6 @@
 # BridgeLabz-Training
 
-16-12-2025 : First Day of Capgemini training starting with learning industry standard folder structure 
+16-12-2025 : First Day of training starting with learning industry standard folder structures. 
 
 16-12-2025 (Monday): Created a new branch named 'core-java-practice'
 
