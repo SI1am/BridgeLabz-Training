@@ -1,4 +1,4 @@
-package keywords;
+// package keywords;
 public class BankAccount {
 
     // Static variables shared by all bank accounts
