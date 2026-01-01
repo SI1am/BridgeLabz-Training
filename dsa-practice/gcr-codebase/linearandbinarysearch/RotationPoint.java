@@ -31,7 +31,7 @@ public class RotationPoint {
             else
                 right =mid;
         }
-        
+
 
         System.out.println("Rotation index: " + left);
     }
