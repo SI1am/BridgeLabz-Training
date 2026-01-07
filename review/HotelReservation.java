@@ -10,13 +10,7 @@ class HotelSystem {
         availableRooms.add(room);
     }
 
-    public Reservation bookRoom(
-            String reservationId,
-            Guest guest,
-            Room room,
-            int days,
-            PricingStrategy pricingStrategy
-    ) throws RoomNotAvailableException {
+    public Reservation bookRoom(String reservationId,Guest guest,Room room,int days, PricingStrategy pricingStrategy) throws RoomNotAvailableException {
 
         if (!availableRooms.contains(room)) {
             throw new RoomNotAvailableException("Room not available");
