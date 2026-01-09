@@ -7,3 +7,5 @@
 07-01-2026 (Wednesday): Complete streams Assignment and saved in [streams](./collections-practice/gcr-codebase/streams/) folder.
 
 08-01-2026 (Thursday): Complete scenario-based Assignment and saved in [scenario-based](./collections-practice/scenario-based/) folder.
+
+09-01-2026 (friday): Complete exceptions Assignment and saved in [exceptions](./collections-practice/gcr-codebase/exceptions/) folder.
