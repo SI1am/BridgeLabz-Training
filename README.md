@@ -9,3 +9,6 @@
 08-01-2026 (Thursday): Complete scenario-based Assignment and saved in [scenario-based](./collections-practice/scenario-based/) folder.
 
 09-01-2026 (friday): Complete exceptions Assignment and saved in [exceptions](./collections-practice/gcr-codebase/exceptions/) folder.
+
+13-01-2025 (Tuesday) : Complete Regex assignment and save in [regex](./collections-practice/gcr-codebase/regex/) folder.
+
