@@ -12,3 +12,5 @@
 
 13-01-2025 (Tuesday) : Complete Regex assignment and save in [regex](./collections-practice/gcr-codebase/regex/) folder.
 
+
+13-01-2025 (Tuesday) : Complete Junit assignment and save in [junit](./collections-practice/gcr-codebase/junit/) folder.
