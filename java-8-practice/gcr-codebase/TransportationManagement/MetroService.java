@@ -1,4 +1,4 @@
-package TransportationManagement;
+// package TransportationManagement;
 
 public class MetroService {
 	int totalSeats;
@@ -15,5 +15,10 @@ public class MetroService {
 		this.totalSeats=totalSeats;
 		
 	}
+	public String getCurrentLocation() { return currentLocation; }
+    public String getDestination() { return destination; }
+    public double getPrice() { return price; }
+    public int getAvailableSeats() { return availableSeats; }
+
 
 }

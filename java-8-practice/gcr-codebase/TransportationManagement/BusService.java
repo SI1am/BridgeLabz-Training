@@ -1,4 +1,4 @@
-package TransportationManagement;
+// package TransportationManagement;
 
 public class BusService implements GeoUtils ,TransportServices{
 	int totalSeats;
@@ -15,7 +15,9 @@ public class BusService implements GeoUtils ,TransportServices{
 		this.totalSeats=totalSeats;
 		
 	}
-	
-	
+	public String getCurrentLocation() { return currentLocation; }
+    public String getDestination() { return destination; }
+    public double getPrice() { return price; }
+    public int getAvailableSeats() { return availableSeats; }
 
 }

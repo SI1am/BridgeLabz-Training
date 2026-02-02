@@ -1,4 +1,4 @@
-package TransportationManagement;
+// package TransportationManagement;
 
 public class TaxiService implements TransportServices{
 	int totalSeats;
@@ -15,9 +15,10 @@ public class TaxiService implements TransportServices{
 		this.totalSeats=totalSeats;
 		
 	}
-	@Override
-	public void printServiceDetails(){
-		
-	}
+	public String getCurrentLocation() { return currentLocation; }
+    public String getDestination() { return destination; }
+    public double getPrice() { return price; }
+    public int getAvailableSeats() { return availableSeats; }
+
 
 }
