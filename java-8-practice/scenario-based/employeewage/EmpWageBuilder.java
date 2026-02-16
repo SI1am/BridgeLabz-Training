@@ -1,5 +1,6 @@
 package employeewage;
 import java.util.*;
+import java.util.concurrent.ThreadLocalRandom;
 public class EmpWageBuilder implements IEmpWageBuilder {
 
     private ArrayList<CompanyEmpWage> companyList;
@@ -12,7 +13,7 @@ public class EmpWageBuilder implements IEmpWageBuilder {
 
     @Override
     public void addCompany(String company, int ratePerHour, int maxDays, int maxHrs) {
-        CompanyEmpWage companyEmpWage = new CompanyEmpWage(company, ratePerHour, maxDays, maxHrs);
+        CompanyEmpWage companyEmpWage =new CompanyEmpWage(company,ratePerHour,maxDays,maxHrs);
         companyList.add(companyEmpWage);
         companyMap.put(company, companyEmpWage);
     }
@@ -21,41 +22,32 @@ public class EmpWageBuilder implements IEmpWageBuilder {
     
     @Override
     public void computeEmpWage() {
-        for (CompanyEmpWage company : companyList) {
-            int totalHrs = 0;
-            int totalDays = 0;
-
-            while (totalHrs <= company.maxHrs && totalDays < company.maxDays) {
-                totalDays++;
-
-                int empHrs = 0;
-                int empCheck = new Random().nextInt(3);
-
-                switch (empCheck) {
-                    case 1:
-                        empHrs =4;  
-                        break;
-                    case 2:
-                        empHrs =8;  
-                        break;
-                    default:
-                        empHrs=0;  
-                }
-
-                totalHrs += empHrs;
-                int dailyWage = empHrs * company.ratePerHour;
-                company.dailyWage.add(dailyWage);
-            }
-
-            company.setTotalWage(totalHrs * company.ratePerHour);
-            System.out.println(company);
-        }
+        companyList.forEach(this::computeWageForCompany);
     }
     
+    private void computeWageForCompany(CompanyEmpWage company) {
+
+        int totalHrs = 0;
+        int totalDays = 0;
+
+        while (totalHrs<=company.maxHrs && totalDays<company.maxDays) {
+
+            totalDays++;
+            int empCheck =ThreadLocalRandom.current().nextInt(3);
+            int empHrs = (empCheck == 1)?4:(empCheck == 2)?8:0;
+
+            totalHrs += empHrs;
+            company.dailyWage.add(empHrs*company.ratePerHour);
+        }
+
+        int totalWage = company.dailyWage.stream().mapToInt(Integer::intValue).sum();
+        company.setTotalWage(totalWage);
+        System.out.println(company);
+    }
     
 
     @Override
     public int getTotalWage(String companyName) {
-        return companyMap.get(companyName).totalWage;
+        return Optional.ofNullable(companyMap.get(companyName)).map(c->c.totalWage).orElse(0);
     }
 }
