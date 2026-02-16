@@ -81,45 +81,45 @@ BridgeLabz-Training/
 ## Practice Modules
 
 ### 1. Collections Practice (Branch: collections-practice)
-- [Generics](https://github.com/S1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics) - SmartWarehouse, DynamicMarket, AIResumeScreener
-- [Collections](https://github.com/S1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collections) - ListInterface, SetInterface, ShoppingCart, VotingSystem, ReverseAList
-- [Streams](https://github.com/S1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/streams) - FileCopyBasic, BufferedVsUnbuffered, UserInputToFile, ImageByteArray, UpperToLower
-- [JUnit](https://github.com/S1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/junit) - Testing classes and methods for Calculator, DatabaseConnection, Even, ExceptionHandling, ListManager, PasswordValidator, TemperatureConverter
-- [Annotations](https://github.com/S1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/annotations) - Animal, BugTracker, LegacyAPI, TaskInfo, WarningSupress
-- [Exceptions](https://github.com/S1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exceptions) - CheckedException, CustomExceptions, FinallyBlock, MultipleCatch, TryWithResources, UncheckedExceptions
-- [Reflections](https://github.com/S1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/reflections) - AccessModify, DynamicMethodInvocation, DynamicObjectCreation, GetClassInformation, InvokePrivateMethods, LoggingReflection, ModifyPrivateAge, ObjectMapper, RetrieveAnnotation
-- [Regex](https://github.com/S1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/regex) - Capitalize, EmailExtraction, ExtractDate, ExtractProgrammingLanguage, RepeatingWords, ReplaceSpaces, ValidateCreditcard, ValidateLicencePlate, ValidateUserName, ValidtaeHexcode
-- [Scenario-based](https://github.com/S1am/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based) - TravelReservationSystem, SupportInteractionHandler, streamBuzz, oceanFleet
+- [Generics](https://github.com/SI1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics) - SmartWarehouse, DynamicMarket, AIResumeScreener
+- [Collections](https://github.com/SI1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collections) - ListInterface, SetInterface, ShoppingCart, VotingSystem, ReverseAList
+- [Streams](https://github.com/SI1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/streams) - FileCopyBasic, BufferedVsUnbuffered, UserInputToFile, ImageByteArray, UpperToLower
+- [JUnit](https://github.com/SI1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/junit) - Testing classes and methods for Calculator, DatabaseConnection, Even, ExceptionHandling, ListManager, PasswordValidator, TemperatureConverter
+- [Annotations](https://github.com/SI1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/annotations) - Animal, BugTracker, LegacyAPI, TaskInfo, WarningSupress
+- [Exceptions](https://github.com/SI1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exceptions) - CheckedException, CustomExceptions, FinallyBlock, MultipleCatch, TryWithResources, UncheckedExceptions
+- [Reflections](https://github.com/SI1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/reflections) - AccessModify, DynamicMethodInvocation, DynamicObjectCreation, GetClassInformation, InvokePrivateMethods, LoggingReflection, ModifyPrivateAge, ObjectMapper, RetrieveAnnotation
+- [Regex](https://github.com/SI1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/regex) - Capitalize, EmailExtraction, ExtractDate, ExtractProgrammingLanguage, RepeatingWords, ReplaceSpaces, ValidateCreditcard, ValidateLicencePlate, ValidateUserName, ValidtaeHexcode
+- [Scenario-based](https://github.com/SI1am/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based) - TravelReservationSystem, SupportInteractionHandler, streamBuzz, oceanFleet
 
 ### 2. DSA Practice (Branch: dsa-practice)
-- [Sorting](https://github.com/S1am/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting) - BubbleSort, InsertionSort, HeapSort, MergeSort
-- [Linear and Binary Search](https://github.com/S1am/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linearandbinarysearch) - ReverseStringSB, RemoveDuplicatesSB, FirstLastOccurrence, StringBufferConcat, ReadFileLineByLine, Search2DMatrix, PeakElement, RotationPoint, CountWordInFile
-- [Time and Space Complexity](https://github.com/S1am/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/timeandspacecomplexity) - SearchComparison, StringConcatComparison, FibonacciComparison
-- [Stacks, Queues, and HashMaps](https://github.com/S1am/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stacksqueuesandhashmaps) - TwoSumProblem, ZeroSumSubarrays, CustomHashMap, QueueUsingStacks, StockSpan, SlidingWindowMaximum
-- [LinkedList](https://github.com/S1am/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/LinkedList) - CircularTaskManager, MovieManager, ReservationApp, RoundRobinScheduler, EditorApp
-- [Scenario-based](https://github.com/S1am/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based) - StudentScores, ParagraphFunctionalities, AeroVigil, Robot
+- [Sorting](https://github.com/SI1am/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting) - BubbleSort, InsertionSort, HeapSort, MergeSort
+- [Linear and Binary Search](https://github.com/SI1am/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linearandbinarysearch) - ReverseStringSB, RemoveDuplicatesSB, FirstLastOccurrence, StringBufferConcat, ReadFileLineByLine, Search2DMatrix, PeakElement, RotationPoint, CountWordInFile
+- [Time and Space Complexity](https://github.com/SI1am/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/timeandspacecomplexity) - SearchComparison, StringConcatComparison, FibonacciComparison
+- [Stacks, Queues, and HashMaps](https://github.com/SI1am/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stacksqueuesandhashmaps) - TwoSumProblem, ZeroSumSubarrays, CustomHashMap, QueueUsingStacks, StockSpan, SlidingWindowMaximum
+- [LinkedList](https://github.com/SI1am/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/LinkedList) - CircularTaskManager, MovieManager, ReservationApp, RoundRobinScheduler, EditorApp
+- [Scenario-based](https://github.com/SI1am/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based) - StudentScores, ParagraphFunctionalities, AeroVigil, Robot
 
 ### 3. OOP Practice (Branch: oops-practice)
-- [Keywords](https://github.com/S1am/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/keywords) - BankAccount, Company
-- [Classes and Objects](https://github.com/S1am/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/classes-and-objects) - BookDetailes, Circle, Employee, ATMSimulator, Inventory, Phone
-- [Scenario-based](https://github.com/S1am/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based) - EmployeeWageComputation
+- [Keywords](https://github.com/SI1am/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/keywords) - BankAccount, Company
+- [Classes and Objects](https://github.com/SI1am/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/classes-and-objects) - BookDetailes, Circle, Employee, ATMSimulator, Inventory, Phone
+- [Scenario-based](https://github.com/SI1am/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based) - EmployeeWageComputation
 
 ### 4. Core Java Practice (Branch: core-java-practice)
-- [Arrays](https://github.com/S1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays) - ArraySum, BMI2D, BMICalculatorArray
-- [Control Flow](https://github.com/S1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow) - Various programs for loops, conditionals, calculations (e.g., FizzBuzz, Prime checks, BMI calculators)
-- [Methods](https://github.com/S1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods) - FindFactor, RecursiveNaturalSum, DisplayCalendar, MatrixOperations, LineMath, CollinearPoints, EmployeeBonus, StudentScoreCard, PlayersHeight
-- [Strings](https://github.com/S1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings) - ChangeToUpperCase
-- [Extras](https://github.com/S1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/Extras) - MostFrequentCharacter
-- [Programming Elements](https://github.com/S1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements) - Level1 and Level2 programs (e.g., HarryAge, SamsMarks, KmToMile, BasicCalculator, areaOfCircle, simpleinterest)
-- [LeetCode Codebase](https://github.com/S1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase) - container
-- [Scenario-based](https://github.com/S1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based) - MayaBMITracker, TheCoffeeChronicals, LexicalTwist, FlipKeyLogic
+- [Arrays](https://github.com/SI1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays) - ArraySum, BMI2D, BMICalculatorArray
+- [Control Flow](https://github.com/SI1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow) - Various programs for loops, conditionals, calculations (e.g., FizzBuzz, Prime checks, BMI calculators)
+- [Methods](https://github.com/SI1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods) - FindFactor, RecursiveNaturalSum, DisplayCalendar, MatrixOperations, LineMath, CollinearPoints, EmployeeBonus, StudentScoreCard, PlayersHeight
+- [Strings](https://github.com/SI1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings) - ChangeToUpperCase
+- [Extras](https://github.com/SI1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/Extras) - MostFrequentCharacter
+- [Programming Elements](https://github.com/SI1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements) - Level1 and Level2 programs (e.g., HarryAge, SamsMarks, KmToMile, BasicCalculator, areaOfCircle, simpleinterest)
+- [LeetCode Codebase](https://github.com/SI1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase) - container
+- [Scenario-based](https://github.com/SI1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based) - MayaBMITracker, TheCoffeeChronicals, LexicalTwist, FlipKeyLogic
 
 ### 5. Java 8 Practice (Branch: java-8-practice)
-- [Streams](https://github.com/S1am/BridgeLabz-Training/tree/java-8-practice/java-8-practice/gcr-codebase/streams) - EmailNotifications, HospitalDoctor, InsuranceClaim, Member, NamesTranform, Sensor, StockPriceLogger, Transactions, WelcomeMessage, TrendingMovies
-- [TransportationManagement](https://github.com/S1am/BridgeLabz-Training/tree/java-8-practice/java-8-practice/gcr-codebase/TransportationManagement) - BusService, MetroService, TaxiService, FareCalculator, TransportServices, GeoUtils
+- [Streams](https://github.com/SI1am/BridgeLabz-Training/tree/java-8-practice/java-8-practice/gcr-codebase/streams) - EmailNotifications, HospitalDoctor, InsuranceClaim, Member, NamesTranform, Sensor, StockPriceLogger, Transactions, WelcomeMessage, TrendingMovies
+- [TransportationManagement](https://github.com/SI1am/BridgeLabz-Training/tree/java-8-practice/java-8-practice/gcr-codebase/TransportationManagement) - BusService, MetroService, TaxiService, FareCalculator, TransportServices, GeoUtils
 
 ### 6. JDBC Practice (Branch: jdbc-practice)
-- [DBconnection](https://github.com/S1am/BridgeLabz-Training/tree/jdbc-practice/jdbc-practice/gcr-codebase/DBconnection) - ClinicDbConnection, DBUtils, Patient, PatientDAO, AppointmentDAO, BillDAO, TestConnection, Main
+- [DBconnection](https://github.com/SI1am/BridgeLabz-Training/tree/jdbc-practice/jdbc-practice/gcr-codebase/DBconnection) - ClinicDbConnection, DBUtils, Patient, PatientDAO, AppointmentDAO, BillDAO, TestConnection, Main
 
 ### 7. IO Programming Practice (Branch: io-programming-practice)
 - Practice code for Input/Output operations in Java, including:
@@ -132,7 +132,7 @@ BridgeLabz-Training/
   - Exception handling in I/O operations
 
 ### 8. Review (Branch: review)
-- [Review Files](https://github.com/S1am/BridgeLabz-Training/tree/review/review) - HotelReservation, QuickSort, throwAndThrowsException, SecondMax, DifferenceBwInterfaceAbstract
+- [Review Files](https://github.com/SI1am/BridgeLabz-Training/tree/review/review) - HotelReservation, QuickSort, throwAndThrowsException, SecondMax, DifferenceBwInterfaceAbstract
 
 ### 9. Design Patterns (Branch: design-patterns)
 - Software design pattern implementations
@@ -146,91 +146,91 @@ The training progress is tracked by branch commits. Here are the completion date
 
 16-12-2025 : First Day of training starting with learning industry standard folder structures.
 
-03-01-2026 (Saturday): Complete generics Assignment and saved in [generics](https://github.com/S1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics) branch.
+03-01-2026 (Saturday): Complete generics Assignment and saved in [generics](https://github.com/SI1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics) branch.
 
-05-01-2026 (Monday): Complete collections Assignment and saved in [collections](https://github.com/S1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collections) branch.
+05-01-2026 (Monday): Complete collections Assignment and saved in [collections](https://github.com/SI1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collections) branch.
 
-07-01-2026 (Wednesday): Complete streams Assignment and saved in [streams](https://github.com/S1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/streams) branch.
+07-01-2026 (Wednesday): Complete streams Assignment and saved in [streams](https://github.com/SI1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/streams) branch.
 
-08-01-2026 (Thursday): Complete scenario-based Assignment and saved in [scenario-based](https://github.com/S1am/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based) branch.
+08-01-2026 (Thursday): Complete scenario-based Assignment and saved in [scenario-based](https://github.com/SI1am/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based) branch.
 
-13-01-2026 (Tuesday): Complete Junit assignment and saved in [junit](https://github.com/S1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/junit) branch.
+13-01-2026 (Tuesday): Complete Junit assignment and saved in [junit](https://github.com/SI1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/junit) branch.
 
-17-01-2026 (Saturday): Complete DSA sorting Assignment and saved in [sorting](https://github.com/S1am/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting) branch.
+17-01-2026 (Saturday): Complete DSA sorting Assignment and saved in [sorting](https://github.com/SI1am/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting) branch.
 
-19-01-2026 (Monday): Complete DSA linear and binary search Assignment and saved in [linearandbinarysearch](https://github.com/S1am/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linearandbinarysearch) branch.
+19-01-2026 (Monday): Complete DSA linear and binary search Assignment and saved in [linearandbinarysearch](https://github.com/SI1am/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linearandbinarysearch) branch.
 
-21-01-2026 (Wednesday): Complete DSA time and space complexity Assignment and saved in [timeandspacecomplexity](https://github.com/S1am/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/timeandspacecomplexity) branch.
+21-01-2026 (Wednesday): Complete DSA time and space complexity Assignment and saved in [timeandspacecomplexity](https://github.com/SI1am/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/timeandspacecomplexity) branch.
 
-23-01-2026 (Friday): Complete DSA stacks, queues, and hashmaps Assignment and saved in [stacksqueuesandhashmaps](https://github.com/S1am/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stacksqueuesandhashmaps) branch.
+23-01-2026 (Friday): Complete DSA stacks, queues, and hashmaps Assignment and saved in [stacksqueuesandhashmaps](https://github.com/SI1am/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stacksqueuesandhashmaps) branch.
 
-25-01-2026 (Sunday): Complete DSA LinkedList Assignment and saved in [LinkedList](https://github.com/S1am/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/LinkedList) branch.
+25-01-2026 (Sunday): Complete DSA LinkedList Assignment and saved in [LinkedList](https://github.com/SI1am/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/LinkedList) branch.
 
-27-01-2026 (Tuesday): Complete DSA scenario-based Assignment and saved in [scenario-based](https://github.com/S1am/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based) branch.
+27-01-2026 (Tuesday): Complete DSA scenario-based Assignment and saved in [scenario-based](https://github.com/SI1am/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based) branch.
 
-29-01-2026 (Thursday): Complete OOP keywords Assignment and saved in [keywords](https://github.com/S1am/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/keywords) branch.
+29-01-2026 (Thursday): Complete OOP keywords Assignment and saved in [keywords](https://github.com/SI1am/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/keywords) branch.
 
-31-01-2026 (Saturday): Complete OOP classes and objects Assignment and saved in [classes-and-objects](https://github.com/S1am/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/classes-and-objects) branch.
+31-01-2026 (Saturday): Complete OOP classes and objects Assignment and saved in [classes-and-objects](https://github.com/SI1am/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/classes-and-objects) branch.
 
-02-02-2026 (Tuesday): Complete OOP scenario-based Assignment and saved in [scenario-based](https://github.com/S1am/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based) branch.
+02-02-2026 (Tuesday): Complete OOP scenario-based Assignment and saved in [scenario-based](https://github.com/SI1am/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based) branch.
 
-04-02-2026 (Thursday): Complete Core Java arrays Assignment and saved in [arrays](https://github.com/S1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays) branch.
+04-02-2026 (Thursday): Complete Core Java arrays Assignment and saved in [arrays](https://github.com/SI1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays) branch.
 
-06-02-2026 (Saturday): Complete Core Java control flow Assignment and saved in [control-flow](https://github.com/S1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow) branch.
+06-02-2026 (Saturday): Complete Core Java control flow Assignment and saved in [control-flow](https://github.com/SI1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow) branch.
 
-08-02-2026 (Monday): Complete Core Java methods Assignment and saved in [methods](https://github.com/S1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods) branch.
+08-02-2026 (Monday): Complete Core Java methods Assignment and saved in [methods](https://github.com/SI1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods) branch.
 
-10-02-2026 (Wednesday): Complete Core Java strings Assignment and saved in [strings](https://github.com/S1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings) branch.
+10-02-2026 (Wednesday): Complete Core Java strings Assignment and saved in [strings](https://github.com/SI1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings) branch.
 
-12-02-2026 (Friday): Complete Core Java extras Assignment and saved in [Extras](https://github.com/S1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/Extras) branch.
+12-02-2026 (Friday): Complete Core Java extras Assignment and saved in [Extras](https://github.com/SI1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/Extras) branch.
 
-14-02-2026 (Sunday): Complete Core Java programming elements Assignment and saved in [programming-elements](https://github.com/S1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements) branch.
+14-02-2026 (Sunday): Complete Core Java programming elements Assignment and saved in [programming-elements](https://github.com/SI1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements) branch.
 
-16-02-2026 (Tuesday): Complete Core Java LeetCode codebase Assignment and saved in [leet-code-codebase](https://github.com/S1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase) branch.
+16-02-2026 (Tuesday): Complete Core Java LeetCode codebase Assignment and saved in [leet-code-codebase](https://github.com/SI1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase) branch.
 
-18-02-2026 (Thursday): Complete Core Java scenario-based Assignment and saved in [scenario-based](https://github.com/S1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based) branch.
+18-02-2026 (Thursday): Complete Core Java scenario-based Assignment and saved in [scenario-based](https://github.com/SI1am/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based) branch.
 
-20-02-2026 (Saturday): Complete Review files Assignment and saved in [review](https://github.com/S1am/BridgeLabz-Training/tree/review/review) branch.
+20-02-2026 (Saturday): Complete Review files Assignment and saved in [review](https://github.com/SI1am/BridgeLabz-Training/tree/review/review) branch.
 
 22-02-2026 (Monday): Started IO Programming Practice - File handling basics and byte streams.
 
-24-02-2026 (Wednesday): Complete IO Programming file reading/writing Assignment and saved in [io-programming-practice](https://github.com/S1am/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice) branch.
+24-02-2026 (Wednesday): Complete IO Programming file reading/writing Assignment and saved in [io-programming-practice](https://github.com/SI1am/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice) branch.
 
-26-02-2026 (Friday): Complete IO Programming buffered I/O operations Assignment and saved in [io-programming-practice](https://github.com/S1am/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice) branch.
+26-02-2026 (Friday): Complete IO Programming buffered I/O operations Assignment and saved in [io-programming-practice](https://github.com/SI1am/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice) branch.
 
-28-02-2026 (Sunday): Complete IO Programming serialization and deserialization Assignment and saved in [io-programming-practice](https://github.com/S1am/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice) branch.
+28-02-2026 (Sunday): Complete IO Programming serialization and deserialization Assignment and saved in [io-programming-practice](https://github.com/SI1am/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice) branch.
 
-02-03-2026 (Tuesday): Complete IO Programming NIO package usage Assignment and saved in [io-programming-practice](https://github.com/S1am/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice) branch.
+02-03-2026 (Tuesday): Complete IO Programming NIO package usage Assignment and saved in [io-programming-practice](https://github.com/SI1am/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice) branch.
 
-04-03-2026 (Thursday): Complete IO Programming exception handling in I/O operations Assignment and saved in [io-programming-practice](https://github.com/S1am/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice) branch.
+04-03-2026 (Thursday): Complete IO Programming exception handling in I/O operations Assignment and saved in [io-programming-practice](https://github.com/SI1am/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice) branch.
 
 **Additional Topics Completed:**
 
-07-01-2026: Complete Annotations Assignment and saved in [annotations](https://github.com/S1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/annotations) branch.
+07-01-2026: Complete Annotations Assignment and saved in [annotations](https://github.com/SI1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/annotations) branch.
 
-09-01-2026: Complete Exceptions Assignment and saved in [exceptions](https://github.com/S1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exceptions) branch.
+09-01-2026: Complete Exceptions Assignment and saved in [exceptions](https://github.com/SI1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exceptions) branch.
 
-11-01-2026: Complete Reflections Assignment and saved in [reflections](https://github.com/S1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/reflections) branch.
+11-01-2026: Complete Reflections Assignment and saved in [reflections](https://github.com/SI1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/reflections) branch.
 
-15-01-2026: Complete Regex Assignment and saved in [regex](https://github.com/S1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/regex) branch.
+15-01-2026: Complete Regex Assignment and saved in [regex](https://github.com/SI1am/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/regex) branch.
 
 **Java 8 Practice:**
 
-02-02-2026 (Monday): Complete Java 8 streams Assignment and saved in [streams](https://github.com/S1am/BridgeLabz-Training/tree/java-8-practice/java-8-practice/gcr-codebase/streams) branch.
+02-02-2026 (Monday): Complete Java 8 streams Assignment and saved in [streams](https://github.com/SI1am/BridgeLabz-Training/tree/java-8-practice/java-8-practice/gcr-codebase/streams) branch.
 
-04-02-2026 (Wednesday): Complete Java 8 TransportationManagement Assignment and saved in [TransportationManagement](https://github.com/S1am/BridgeLabz-Training/tree/java-8-practice/java-8-practice/gcr-codebase/TransportationManagement) branch.
+04-02-2026 (Wednesday): Complete Java 8 TransportationManagement Assignment and saved in [TransportationManagement](https://github.com/SI1am/BridgeLabz-Training/tree/java-8-practice/java-8-practice/gcr-codebase/TransportationManagement) branch.
 
 **JDBC Practice:**
 
-16-02-2026 (Monday): Complete JDBC Assignment and saved in [jdbc-practice](https://github.com/S1am/BridgeLabz-Training/tree/jdbc-practice/jdbc-practice) branch.
+16-02-2026 (Monday): Complete JDBC Assignment and saved in [jdbc-practice](https://github.com/SI1am/BridgeLabz-Training/tree/jdbc-practice/jdbc-practice) branch.
 
 **Design Patterns:**
 
-03-02-2026 (Tuesday): Complete Design Patterns Assignment and saved in [design-patterns](https://github.com/S1am/BridgeLabz-Training/tree/design-patterns/design-patterns) branch.
+03-02-2026 (Tuesday): Complete Design Patterns Assignment and saved in [design-patterns](https://github.com/SI1am/BridgeLabz-Training/tree/design-patterns/design-patterns) branch.
 
 **Multi-threading:**
 
-09-02-2026 (Monday): Complete Multi-threading Assignment and saved in [multi-threading-practice](https://github.com/S1am/BridgeLabz-Training/tree/multi-threading-practice/multi-threading-practice) branch.
+09-02-2026 (Monday): Complete Multi-threading Assignment and saved in [multi-threading-practice](https://github.com/SI1am/BridgeLabz-Training/tree/multi-threading-practice/multi-threading-practice) branch.
 
 ## How to Use This Repository
 
