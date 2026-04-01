@@ -2,6 +2,7 @@
 
 16-12-2025 : First Day of training starting with learning industry standard folder structures. 
 
+07-01-2026 (Tuesday) : Review questions completed and save in [review](./review/) folder.
 16-12-2025 (Monday): Created a new branch named 'core-java-practice'
 
 17-12-2025 (Tuesday) : Solved 5 LeetCode Questions and updated to them inside [leet-code-codebase](./core-java-practice/leet-code-codebase/).
