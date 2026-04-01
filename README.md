@@ -1,3 +1,25 @@
+# BridgeLabz-Training
+
+16-12-2025 : First Day of training starting with learning industry standard folder structures. 
+
+16-12-2025 (Monday): Created a new branch named 'core-java-practice'
+
+17-12-2025 (Tuesday) : Solved 5 LeetCode Questions and updated to them inside [leet-code-codebase](./core-java-practice/leet-code-codebase/).
+
+17-12-2025 (Wednesday) : Solved 10 Google classroom questions and updated them to [gcr-codebase](./core-java-practice/gcr-codebase/).
+
+18-12-2025 (Thursday) : Solved Level 1 and Level 2 Questions and updated them into [programming-elements](./core-java-practice/gcr-codebase/programming-elements/) folder 
+
+19-12-2025 (Friday): Solved Level 1, 2, and 3 Questions and updated them in [control-flow](./core-java-practice/gcr-codebase/control-flow)
+. Focused on mastering control flow statements like if-else, loops, and switch cases
+
+20-12-2025 (Saturday): Solved Scenario Based Question and updated them to [scenario-based](./core-java-practice/scenario-based/) 
+
+20-12-2025 (Saturday): Solved Arrays Question and updated them to [arrays](./core-java-practice/gcr-codebase/arrays/) 
+
+22-12-2025 (Monday) : Solver Strings Questions and updated them to [strings](./core-java-practice/gcr-codebase/strings/)
+
+23-12-2025 (Tuesday) : Solved Methods Assignment and updated them to [methods](./core-java-practice/gcr-codebase/methods/) folder. Also completed extras Assignment and updated to [extras](./core-java-practice/gcr-codebase/Extras/) folder.
 # BridgeLabz Java Training Practice Repository
 
 This repository contains practice code and assignments for Java training at BridgeLabz. It covers various topics including core Java fundamentals, object-oriented programming (OOP), data structures and algorithms (DSA), collections, and more. The code is organized into modules for easy navigation and reference.
