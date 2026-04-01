@@ -24,7 +24,205 @@
 
 This repository contains practice code and assignments for Java training at BridgeLabz. It covers various topics including core Java fundamentals, object-oriented programming (OOP), data structures and algorithms (DSA), collections, and more. The code is organized into modules for easy navigation and reference.
 
-## Practice Modules
+## Folder Structure
+
+```
+BridgeLabz-Training/
+├── collections-practice/
+│   ├── gcr-codebase/
+│   │   ├── generics/
+│   │   │   ├── AIResumeScreener.java
+│   │   │   ├── DynamicMarket.java
+│   │   │   └── SmartWarehouse.java
+│   │   ├── collections/
+│   │   │   ├── ListInterrface.java
+│   │   │   ├── ReverseAList.java
+│   │   │   ├── SetInterface.java
+│   │   │   ├── ShoppingCart.java
+│   │   │   └── VotingSystem.java
+│   │   ├── streams/
+│   │   │   ├── BufferedVsUnbuffered.java
+│   │   │   ├── FileCopyBasic.java
+│   │   │   ├── ImageByteArray.java
+│   │   │   ├── UserInputToFile.java
+│   │   │   ├── UpperToLower.java
+│   │   │   ├── input.txt
+│   │   │   └── output.txt
+│   │   └── junit/
+│   │       ├── classes-and-methods/
+│   │       │   └── TemperatureConverter.java
+│   │       └── testing/
+│   │           ├── CalculatorTest.java
+│   │           ├── DatabaseConnectionTest.java
+│   │           ├── EvenTest.java
+│   │           ├── ExceptionHandlingTest.java
+│   │           ├── ListManagerTest.java
+│   │           ├── PasswordValidatorTest.java
+│   │           └── TemperatureConverterTest.java
+│   └── scenario-based/
+│       ├── SupportInteractionHandler.java
+│       └── TravelReservationSystem.java
+├── core-java-practice/
+│   ├── gcr-codebase/
+│   │   ├── arrays/
+│   │   │   ├── ArraySum.java
+│   │   │   ├── BMI2D.java
+│   │   │   └── BMICalculatorArray.java
+│   │   ├── control-flow/
+│   │   │   ├── AbundantNumberCheck.java
+│   │   │   ├── ArmstrongNumberCheck.java
+│   │   │   ├── BMICalculator.java
+│   │   │   ├── CanVoteOrNot.java
+│   │   │   ├── CheckDivisibilityBy5.java
+│   │   │   ├── CheckNumber.java
+│   │   │   ├── DayOfWeek.java
+│   │   │   ├── DigitCount.java
+│   │   │   ├── EmployeBonus.java
+│   │   │   ├── FactorsFor.java
+│   │   │   ├── FactorsWhile.java
+│   │   │   ├── FactorialWithFor.java
+│   │   │   ├── FactorialWithWhile.java
+│   │   │   ├── FizzBuzzFor.java
+│   │   │   ├── FizzBuzzWhile.java
+│   │   │   ├── GreatestFactorFor.java
+│   │   │   ├── GreatestFactorWhile.java
+│   │   │   ├── HarshadNumberCheck.java
+│   │   │   ├── IfTheFirstIsSmallest.java
+│   │   │   ├── IsNaturalNumberAndSum.java
+│   │   │   ├── LeapYearUsingMultipleIf.java
+│   │   │   ├── LeapYearUsingSingleIf.java
+│   │   │   ├── MultiplicationTable.java
+│   │   │   ├── MultiplesFor.java
+│   │   │   ├── MultiplesWhile.java
+│   │   │   ├── NaturalSumUsingFor.java
+│   │   │   ├── NaturalSumUsingWhile.java
+│   │   │   ├── OddEvenNumbers.java
+│   │   │   ├── PowerFor.java
+│   │   │   ├── PowerWhile.java
+│   │   │   ├── PrimeNumberCheck.java
+│   │   │   ├── RocketCountdown.java
+│   │   │   ├── RocketCountdownUsingForLoop.java
+│   │   │   ├── SimpleCalculator.java
+│   │   │   ├── SpringSeasonOrNot.java
+│   │   │   ├── SubjectGrades.java
+│   │   │   ├── SumTillZero.java
+│   │   │   ├── SumTillZero2.java
+│   │   │   └── WhichLargest.java
+│   │   ├── methods/
+│   │   │   ├── CollinearPoints.java
+│   │   │   ├── DisplayCalendar.java
+│   │   │   ├── EmployeeBonus.java
+│   │   │   ├── FindFactor.java
+│   │   │   ├── LineMath.java
+│   │   │   ├── MatrixOperations.java
+│   │   │   ├── PlayersHeight.java
+│   │   │   ├── RecursiveNaturalSum.java
+│   │   │   └── StudentScoreCard.java
+│   │   ├── programming-elements/
+│   │   │   ├── BridgeLabz.java
+│   │   │   ├── CelciusToFahrenite.java
+│   │   │   ├── Level1/
+│   │   │   │   ├── AreaOfTriangle.java
+│   │   │   │   ├── BasicCalculator.java
+│   │   │   │   ├── FeetToYardMiles.java
+│   │   │   │   ├── HarryAge.java
+│   │   │   │   ├── HeightConverter.java
+│   │   │   │   ├── KmToMile.java
+│   │   │   │   ├── KmToMilesConverter.java
+│   │   │   │   ├── MaxHandshakes.java
+│   │   │   │   ├── PenDistribution.java
+│   │   │   │   ├── PerimeterToSides.java
+│   │   │   │   ├── ProfitLoss.java
+│   │   │   │   ├── SamsMarks.java
+│   │   │   │   ├── StudentFeeDiscount.java
+│   │   │   │   ├── TotalPurchasePrice.java
+│   │   │   │   ├── UniversityDiscount.java
+│   │   │   │   └── VolumeOfEarth.java
+│   │   │   ├── Level2/
+│   │   │   │   ├── DoubleOpt.java
+│   │   │   │   └── IntOperation.java
+│   │   │   ├── addTwoNums.java
+│   │   │   ├── areaOfCircle.java
+│   │   │   ├── averageofthree.java
+│   │   │   ├── converttomile.java
+│   │   │   ├── perimeterofrectangle.java
+│   │   │   ├── powercalculation.java
+│   │   │   ├── simpleinterest.java
+│   │   │   └── volumeofcylinder.java
+│   │   ├── strings/
+│   │   │   └── ChangeToUpperCase.java
+│   │   └── Extras/
+│   │       └── MostFrequentCharacter.java
+│   ├── leet-code-codebase/
+│   │   └── container.java
+│   └── scenario-based/
+│       ├── MayaBMITracker.java
+│       └── TheCoffeeChronicals.java
+├── dsa-practice/
+│   ├── gcr-codebase/
+│   │   ├── LinkedList/
+│   │   │   ├── CircularTaskManager.java
+│   │   │   ├── EditorApp.java
+│   │   │   ├── MovieManager.java
+│   │   │   ├── ReservationApp.java
+│   │   │   └── RoundRobinScheduler.java
+│   │   ├── linearandbinarysearch/
+│   │   │   ├── CountWordInFile.java
+│   │   │   ├── FirstLastOccurrence.java
+│   │   │   ├── PeakElement.java
+│   │   │   ├── ReadFileLineByLine.java
+│   │   │   ├── RemoveDuplicatesSB.java
+│   │   │   ├── ReverseStringSB.java
+│   │   │   ├── RotationPoint.java
+│   │   │   ├── Search2DMatrix.java
+│   │   │   └── StringBufferConcat.java
+│   │   ├── sorting/
+│   │   │   ├── BubbleSort.java
+│   │   │   ├── HeapSort.java
+│   │   │   ├── InsertionSort.java
+│   │   │   └── MergeSort.java
+│   │   ├── stacksqueuesandhashmaps/
+│   │   │   ├── CustomHashMap.java
+│   │   │   ├── QueueUsingStacks.java
+│   │   │   ├── SlidingWindowMaximum.java
+│   │   │   ├── StockSpan.java
+│   │   │   ├── TwoSumProblem.java
+│   │   │   └── ZeroSumSubarrays.java
+│   │   └── timeandspacecomplexity/
+│   │       ├── FibonacciComparison.java
+│   │       ├── SearchComparison.java
+│   │       └── StringConcatComparison.java
+│   └── scenario-based/
+│       ├── ParagraphFunctionalities.java
+│       └── StudentScores.java
+├── oops-practice/
+│   ├── gcr-codebase/
+│   │   ├── classes-and-objects/
+│   │   │   ├── ATMSimulator.java
+│   │   │   ├── BookDetailes.java
+│   │   │   ├── Circle.java
+│   │   │   ├── Employee.java
+│   │   │   ├── Inventory.java
+│   │   │   └── Phone.java
+│   │   └── keywords/
+│   │       ├── BankAccount.java
+│   │       └── Company.java
+│   └── scenario-based/
+│       └── EmployeeWageComputation.java
+├── io-programming-practice/
+│   └── gcr-codebase/
+│       ├── csvHandling/
+│       │   ├── EmployeeSearch.java
+│       │   ├── FilterRecords.java
+│       │   ├── ReadAndPrindData.java
+│       │   ├── Rowcount.java
+│       │   ├── SortBySalary.java
+│       │   ├── UpdateRecords.java
+│       │   ├── ValidateCSV.java
+│       │   ├── WriteCSV.java
+│       │   └── csvFiles/
+│       │       ├── employee.csv
+│       │       ├── employees.csv
 
 ### 1. Collections Practice
 - [Generics](./collections-practice/gcr-codebase/generics/) - SmartWarehouse, DynamicMarket, AIResumeScreener
